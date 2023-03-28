@@ -12,7 +12,8 @@ public class Stan{
     }
 
     public String getNom(){
-        return this.nomTrain;
+        String jawad = "Je suis en pleine sèche";
+        return jawad;
     }
 
 }
