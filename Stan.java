@@ -8,7 +8,7 @@ public class Stan{
     }
 
     public void changerNom(String nouveauNom){
-        this.nomTrain = nouveauNom;
+        this.nomTrain = nouveauNom + " (Jawed)";
     }
 
     public String getNom(){
