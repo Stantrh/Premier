@@ -1,6 +1,6 @@
 public class Stan{
 
     private String train;
-    private String inslas;
+    private final String BUS;
 
 }
